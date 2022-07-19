@@ -5,7 +5,7 @@ Part of the Carbon Language project, under the Apache License v2.0 with LLVM
 Exceptions. See /LICENSE for license information.
 SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 -->
-
+    
 <!-- toc -->
 
 ## Table of contents
@@ -359,7 +359,7 @@ References:
 ### Where does development occur?
 
 Carbon is using GitHub for its repository and code reviews. Most non-review
-discussion occurs on our Discord server (TODO: link).
+discussion occurs on our [Discord server](https://discord.gg/ZjVdShJDAs).
 
 If you're interested in contributing, you can find more information in our
 [Contributing file](/CONTRIBUTING.md).
